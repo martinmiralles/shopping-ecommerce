@@ -8,6 +8,7 @@ const Container = styled.div`
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    text-align: center;
     `;
 const Title = styled.h1`
   font-size: 70px;
