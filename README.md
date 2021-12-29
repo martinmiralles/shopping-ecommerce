@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Specifically, Lama Dev's starter pack: git clone --single-branch -b react-mini https://github.com/safak/youtube.git .
 
 ## Available Scripts
 
